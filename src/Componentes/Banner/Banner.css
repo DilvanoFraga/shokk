@@ -1,0 +1,16 @@
+.banner {
+    background-color: #1a1719;
+    text-align: center;
+}
+
+.banner img {
+    max-width: 100%;
+    padding: 0 0 0 260px;
+}
+
+.banner h1 {
+    float: right;
+    font-size: 100px;
+    padding: 0 350px 0 0;
+    color: azure;
+}
